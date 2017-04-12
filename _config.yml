@@ -3,7 +3,7 @@
 title: Marian Reid
 tag_text: Marian Reid
 description: Communications Consultant and Storyteller
-url: marianreid.com
+url: http://marianreid.com
 author: Marian Reid
 
 
@@ -16,4 +16,3 @@ gems:
 # - jekyll-sitemap
 sass:
   style: compressed
-  
