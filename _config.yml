@@ -6,13 +6,12 @@ description: Communications Consultant and Storyteller
 url: http://marianreid.com
 author: Marian Reid
 
-
 # Build settings
-
+repository: hutchiko/marianreid.com
 markdown: kramdown
 exclude: ["README.md"]
 gems:
 - jekyll-seo-tag
-# - jekyll-sitemap
+- jekyll-sitemap
 sass:
   style: compressed

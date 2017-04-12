@@ -22,13 +22,14 @@ body {
 }
 
 a {
-  color: #0074d9; /* From http://clrs.cc */
+  color: #000000;
   text-decoration: none;
 }
 
 a:hover, a:focus {
   text-decoration: underline;
 }
+
 
 h1, h2, h3, h4, h5, h6 {
   font-family: Montserrat, sans-serif;
@@ -150,3 +151,7 @@ pre > code {
   margin: 0 auto;
   padding: 0 1rem;
 }
+
+ .right-gap {
+   margin-right: .5rem;
+ }
