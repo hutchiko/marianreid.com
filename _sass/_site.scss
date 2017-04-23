@@ -1,0 +1,35 @@
+@import url(//fonts.googleapis.com/css?family=Inconsolata:400,700|Montserrat:700);
+
+.container {
+  padding: 1em 15px;
+}
+
+h1,h2,h3,h4,h5,h6 {
+  font-family:Montserrat,sans-serif;
+  margin:1rem 0 0.5rem -0.1rem;
+  line-height:1;
+  color:#111;
+  text-rendering:optimizeLegibility
+}
+
+h1 {
+    font-size:4.5em;
+    margin-bottom:1rem
+}
+
+h2 {
+    font-size:1.7em;
+}
+
+a {
+    color: black
+}
+
+a:hover, a:focus {
+    color: black;
+    text-decoration: underline;
+}
+
+.right-gap {
+  padding-right: 0.7em;
+}
