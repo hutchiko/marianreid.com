@@ -4,7 +4,7 @@ layout: default
 
 <div class="row">
   <div class="col-md-4">
-    <img src="img/photo.jpg" alt="Marian Reid" width="100%" height="100%" />
+    <img src="img/P4260833.jpg" alt="Marian Reid" width="100%" height="100%" />
   </div>
   <div class="col-md-8 col-xs-12">
     <h1>Marian Reid</h1>
@@ -26,16 +26,30 @@ layout: default
 
 <div class="row">
   <div class="col-md-4">
-    <img src="img/srilankalady.jpg" alt="Sri Lankan woman in rice field" width="100%" height="100%" />
+    <img src="img/timorlady.jpg" alt="Sri Lankan woman in rice field" width="100%" height="100%" />
   </div>
   <div class="col-md-8">
    <h2>Communications</h2>
 
-    As a Communication Specialist, I produce compelling content for NGOs. I’ve worked with
-    <a target="blank" href="content/Our_health_our_way_Oxfam.pdf">Oxfam Australia</a> and
-    <a target="blank" href="content/The_F_word_we_shouldnt_use_STC.pdf">Save the Children</a> to tell stories of need, hope and change. I’ve also facilitated digital storytelling workshops with the Australian South Sea Islander community, run a Photovoice project with Fataluku people in Timor-Leste, and gathered stories from forest-dependent communities in Ethiopia.
-    I spend time with women, men and children from all backgrounds and support them to tell their stories and be heard.
+   As a Communication Specialist, I produce compelling content for NGOs that tell stories of need, hope and change. I spend time with women, men and children from all backgrounds and support them to tell their stories and be heard.
 
+   <p>
+   <ul>
+   <li><a target="blank" href="content/Oxfam.pdf">Oxfam Australia</a></li>
+   <li><a target="blank" href="content/Oxfam.pdf">Save the Children Australia</a></li>  
+   </ul>
+   </p>
+
+   <p>
+   I also facilitate storytelling workshops that draw on digital storytelling, the Photovoice method and participatory media.  
+   </p>
+
+   <p>
+   <ul>
+   <li><a href="http://www.slq.qld.gov.au/showcase/ASSI/memories-of-a-forgotten-people">Digital storytelling with the Australian South Sea Islander community in Brisbane</a></li>
+    <li><a href="http://manyhands.org.au/our_activities/past_projects/photo_voice_project_november_2013">Photovoice with Many Hands International in Timor-Leste</a></li>
+   </ul>
+   </p>
   </div>
 </div>
 
@@ -43,12 +57,28 @@ layout: default
 
 <div class="row">
   <div class="col-md-4">
-    <img src="img/timorlady.jpg" alt="Timorese girl in traditional costume" width="100%" height="100%" />
+    <img src="img/P5060155.jpg" alt="Door in Skagastrond Iceland" width="100%" height="100%" />
   </div>
   <div class="col-md-8">
     <h2>Creative</h2>
 
-    My creative work is informed by place, people and culture. I recently spent two months in Iceland with NES Artist Residency where I created a series of short works in response to the small fishing village of Skagaströnd. I have researched and written on cultural voice and visibility in Timor-Leste. I have also written for <a target="blank" href="http://www.bbc.com/travel/story/20130614-the-way-of-the-shepherd-horse-trekking-through-kyrgyzstan">BBC World Travel</a> on several occasions.
+    <p>
+    My creative work is informed by place, people and culture. I’m interested in tracing traditional practices in modern times, curious about the past life of buildings in strange places, and always seeking stories that shape the identity of a community.
+    </p>
 
+    <p>
+    <a href="http://neslist.is/">NES Artist Residency</a> in Iceland. A series of <a target="blank" href="content/NES.pdf">short works</a> in response to the small fishing village of Skagaströnd.
+    </p>
+
+    <p>
+    Cultural voice and visibility in Fataluku country, Timor-Leste. Exploring the intersection of intangible cultural heritage, development and multimedia.
+    </p>
+
+    <p>
+    I have also written for BBC World Travel on my experiences horse trekking in
+    <a href="http://www.bbc.com/travel/story/20130614-the-way-of-the-shepherd-horse-trekking-through-kyrgyzstan">Kyrgyzstan</a>
+    and desert architecture in
+    <a href="http://www.bbc.com/travel/story/20140604-chasing-shadows-and-light-in-iran">Iran</a>, among other travel stories.
+    </p>
   </div>
 </div>
