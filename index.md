@@ -11,7 +11,7 @@ layout: default
 
     I’m a writer and storyteller with a background in communication for non-government organisations (NGOs). I work globally with communities to tell stories that give voice to marginalised people and forgotten places. I’m interested in how people and the environment respond to extreme situations, and the place of culture in development.
 
-    <div class="contact-info">
+    <div class="contact-info">  
       <h2>Contact</h2>
 
       <a href="mailto:marianchristabel@gmail.com"><i class="fa fa-envelope right-gap" aria-hidden="true"></i>marianchristabel@gmail.com</a><br>
@@ -36,19 +36,14 @@ layout: default
    <p>
    <ul>
    <li><a target="blank" href="content/Oxfam.pdf">Oxfam Australia</a></li>
-   <li><a target="blank" href="content/Oxfam.pdf">Save the Children Australia</a></li>  
+   <li><a target="blank" href="content/STC.pdf">Save the Children Australia</a></li>  
    </ul>
    </p>
 
    <p>
-   I also facilitate storytelling workshops that draw on digital storytelling, the Photovoice method and participatory media.  
-   </p>
-
-   <p>
-   <ul>
-   <li><a href="http://www.slq.qld.gov.au/showcase/ASSI/memories-of-a-forgotten-people">Digital storytelling with the Australian South Sea Islander community in Brisbane</a></li>
-    <li><a href="http://manyhands.org.au/our_activities/past_projects/photo_voice_project_november_2013">Photovoice with Many Hands International in Timor-Leste</a></li>
-   </ul>
+   I also facilitate storytelling workshops that draw on digital storytelling, the Photovoice method and participatory media.
+   Recent projects include <a target="blank" href="http://www.slq.qld.gov.au/showcase/ASSI/memories-of-a-forgotten-people">Digital storytelling with the Australian South Sea Islander community in Brisbane</a>
+   and <a target="blank" href="http://manyhands.org.au/our_activities/past_projects/photo_voice_project_november_2013">Photovoice with Many Hands International in Timor-Leste</a>
    </p>
   </div>
 </div>
@@ -66,8 +61,9 @@ layout: default
     My creative work is informed by place, people and culture. I’m interested in tracing traditional practices in modern times, curious about the past life of buildings in strange places, and always seeking stories that shape the identity of a community.
     </p>
 
+    <br />
     <p>
-    <a href="http://neslist.is/">NES Artist Residency</a> in Iceland. A series of <a target="blank" href="content/NES.pdf">short works</a> in response to the small fishing village of Skagaströnd.
+    <a target="blank" href="http://neslist.is/">NES Artist Residency</a> in Iceland. A series of <a target="blank" target="blank" href="content/NES.pdf">short works</a> in response to the small fishing village of Skagaströnd.
     </p>
 
     <p>
@@ -76,9 +72,9 @@ layout: default
 
     <p>
     I have also written for BBC World Travel on my experiences horse trekking in
-    <a href="http://www.bbc.com/travel/story/20130614-the-way-of-the-shepherd-horse-trekking-through-kyrgyzstan">Kyrgyzstan</a>
+    <a target="blank" href="http://www.bbc.com/travel/story/20130614-the-way-of-the-shepherd-horse-trekking-through-kyrgyzstan">Kyrgyzstan</a>
     and desert architecture in
-    <a href="http://www.bbc.com/travel/story/20140604-chasing-shadows-and-light-in-iran">Iran</a>, among other travel stories.
+    <a target="blank" href="http://www.bbc.com/travel/story/20140604-chasing-shadows-and-light-in-iran">Iran</a>, among other travel stories.
     </p>
   </div>
 </div>
